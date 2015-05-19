@@ -1,0 +1,38 @@
+body {
+	width: 600px;
+}
+
+.left {
+	width: 200px;
+	height: 600px;
+	margin: 0;
+	background: blue;
+	float: left;
+}
+
+.right {
+	width: 200px;
+	height: 600px;
+	margin: 0;
+	background: #008080;
+	float: left;
+}
+
+.upperright {
+	width: 200px;
+	height: 400px;
+	margin: 0;
+	background: green;
+	float: left;
+}
+
+.lowerright {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	color: white;
+	background: red;
+	float: left;
+	font-size: 20px;
+	text-align: center;
+}
